@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project using reactJS, redux and Ant library to design UI. You have to access network for loading CSS
 
 ## Available Scripts
 
